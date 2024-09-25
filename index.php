@@ -13,7 +13,7 @@
         <h1>Thierry</h1>
     </main>
     <footer>
-        <h3>SWD2</h3>
+        <h3>SWD1</h3>
     </footer>
 </body>
 </html>
