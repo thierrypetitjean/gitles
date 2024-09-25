@@ -7,9 +7,13 @@
 </head>
 <body>
     <header>
-        <h1>My first PHP page</h1>  
+        <h1>07323432840</h1>  
     </header>
-    <main></main>
-    <footer></footer>
+    <main>
+        <h1>Thierry</h1>
+    </main>
+    <footer>
+        <h3>SWD1</h3>
+    </footer>
 </body>
 </html>
